@@ -13,4 +13,4 @@ app.layout = html.Div([html.H1('Olimpiada Mexicana de Matemáticas',
 
 #---------------------------------------------------------------------------------------------------
 if __name__ == '__main__':
-    app.run(debug=False)
+    app.run_server(debug=True)
